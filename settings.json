@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Jakkuu",
+    "username": "Jashika",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "BlossomVale.aternos.me",
-    "port": 25973,
+    "ip": "india.meowlix.tech",
+    "port": 19395,
     "version": "1.20.1",
     "try-creative": false
   },
